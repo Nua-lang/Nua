@@ -16,21 +16,27 @@ npm install nua -g
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+To keep up with clean deps simply do:
 
 ```
-Give the example
+npm install && npm init
 ```
 
-And repeat
+To fire up an Interactive Interpreter Mode do so:
 
 ```
-until finished
+Nua
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+
+To run external .Nua scripts please type:
+
+```
+Nua <script.nua>
+```
+
+You want to learn the Nua lang? So fire up the official syntax guide<a href=""> on Nua.io</a>
+
 
 ## Running the tests
 
