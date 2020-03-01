@@ -56,27 +56,24 @@ You want to learn the Nua lang? So fire up the official syntax guide<a href=""> 
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+The test section for Nua is written itselfes in Nua!
 
-### Break down into end to end tests
+### Nua
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
+Run these commands in your local shell.
 
 ```
-Give an example
+npm run nua-test
 ```
 
-## Deployment
+### Nua-C
 
-Add additional notes about how to deploy this on a live system
+
+```
+npm run nuac-test
+```
+
+
 
 ## Built With
 
@@ -86,7 +83,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://gist.github.com//) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -94,7 +91,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Timo Sarkar** - *Initial work* - [Nua](https://github.com/PurpleBooth)
+* **Timo Sarkar** - *Initial work* - [Nua](https://github.com/Nua-lang)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -102,8 +99,10 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## work in progress
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Book for Nua
+* Blog
+* better Modules
+* Rewrite Nua.io in Nua
+
