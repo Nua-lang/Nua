@@ -1,4 +1,4 @@
-<img src="https://github.com/Nua-lang/Images/blob/master/NuaLogoName.png"></img>
+<img src="https://github.com/Nua-lang/Images/blob/master/NuaLogoName.png"></img> <img src="https://github.com/Nua-lang/Images/blob/master/grafik.png"></img>
 
 
 A Production ready implementation of the Lua C Librairy
