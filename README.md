@@ -1,6 +1,6 @@
 # Nua
 
-One Paragraph of project description goes here
+A Production ready implementation of the Lua C Librairy
 
 ## Getting Started
 
