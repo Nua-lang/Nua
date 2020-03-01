@@ -21,6 +21,9 @@ To keep up with clean deps simply do:
 ```
 npm install && npm init
 ```
+<hr>
+
+### Cli options
 
 To fire up an Interactive Interpreter Mode do so:
 
@@ -33,6 +36,12 @@ To run external .Nua scripts please type:
 
 ```
 Nua <script.nua>
+```
+
+Show the current version of Nua using this command:
+
+```
+Nua -v
 ```
 
 You want to learn the Nua lang? So fire up the official syntax guide<a href=""> on Nua.io</a>
