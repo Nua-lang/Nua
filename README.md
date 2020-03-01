@@ -8,6 +8,21 @@ A Production ready implementation of the Lua C Librairy
 ![](https://img.shields.io/badge/chat-on%20googleGroups-dodgerblue)
 ![](https://img.shields.io/badge/Self--host-passing-dodgerblue)
 
+Nua is a language with the following goals:
+* Virtual Machine
+  * C VM transpiled to node.js for web-commitment
+  * Small but compact byte-code interpreter (similar to LuaJIT - Joff) 
+  * Much more speed than the Lua-C
+* Syntax
+  * Using couroutines
+  * Lightweight fibers
+  * nil value
+* Api
+  * Js-api similar to the LuaC-api
+  * Useful rest-api
+  
+  Sounds great? So get started. You even can try it out in your <a href="">Browser</a>.
+  
 
 ## Getting Started
 
