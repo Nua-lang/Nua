@@ -21,7 +21,7 @@ Nua is a language with the following goals:
   * Js-api similar to the LuaC-api
   * Useful rest-api
   
-  Sounds great? So get started. You even can try it out in your <a href="">Browser</a>.
+  Sounds great? So get started. You even can try it out in your <a href="http://freezyjs.github.io">Browser</a>.
   
   Medium: <a href="https://medium.com/p/90cd532ac09/edit">article</a>
 
