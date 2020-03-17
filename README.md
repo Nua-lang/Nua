@@ -34,7 +34,11 @@ These instructions will get you a copy of the project up and running on your loc
 The Nua language is built on top of node.js so simply do install the deps from npm:
 
 ```
-npm install nua -g
+npm install -g nua-node-cli
+npm install nua-node-cli
+npm install -g nua-test
+npm install nua-test
+npm init
 ```
 
 ### Installing
@@ -51,20 +55,20 @@ npm install && npm init
 To fire up an Interactive Interpreter Mode do so:
 
 ```
-Nua
+$ nua
 ```
 
 
 To run external .Nua scripts please type:
 
 ```
-Nua <script.nua>
+$ nua <script.nua>
 ```
 
 Show the current version of Nua using this command:
 
 ```
-Nua -v
+nua -v
 ```
 
 You want to learn the Nua lang? So fire up the official syntax guide<a href=""> on Nua.io</a>
