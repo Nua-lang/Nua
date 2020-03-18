@@ -3,6 +3,7 @@
 
 A Production ready implementation of the Lua C Librairy
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7f7be795-6fee-4a39-9441-48a358bf3cf5/deploy-status)](https://app.netlify.com/sites/ecstatic-spence-671906/deploys)
 ![](https://img.shields.io/badge/build-passing-brightgreen)
 ![](https://img.shields.io/badge/circleci-passing-brightgreen)
 ![](https://img.shields.io/badge/chat-on%20googleGroups-dodgerblue)
