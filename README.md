@@ -113,7 +113,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Timo Sarkar** - *Initial work* - [Nua](https://github.com/Nua-lang)
+* **Timo Sarkar** - [Nua](https://github.com/Nua-lang)
+
+* **Max Base** - [Nua](https://github.com/Nua-lang)
+
+* **Daniel** - [Nua](https://github.com/Nua-lang)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
