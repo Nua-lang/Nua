@@ -1,7 +1,8 @@
- <img src="https://github.com/Nua-lang/Images/blob/master/uhunua.png"></img>
-
-
-A Production ready implementation of the Lua C Librairy
+<div align="center">
+  <a href="https://nua-lang.github.io/" target="_blank"><img src="https://github.com/Nua-lang/Images/blob/master/uhunua.png" alt="NUA-LANG" style="max-width:100%; margin: 0 auto;" width="80" height="80">
+  <p><b>N U A - L A N G</b></p></a>
+  <p>A Production ready implementation of the Lua C Librairy</p>
+</div>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7f7be795-6fee-4a39-9441-48a358bf3cf5/deploy-status)](https://app.netlify.com/sites/ecstatic-spence-671906/deploys)
 ![](https://img.shields.io/badge/build-passing-brightgreen)
