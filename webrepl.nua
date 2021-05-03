@@ -209,7 +209,7 @@ for i=0, list.length-1 do
             local success, msg = pcall(load(source.textContent))
 
             if not success then
-                global.console:warn(msg or "An error occured while running snippet: \n" .. source.textContent)
+                global.console:warn(msg or "An error occurred while running snippet: \n" .. source.textContent)
             end
         else
             global:eval(source.textContent)
