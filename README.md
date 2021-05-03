@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://nua-lang.github.io/" target="_blank"><img src="https://github.com/Nua-lang/Images/blob/master/uhunua.png" alt="NUA-LANG" style="max-width:100%; margin: 0 auto;" width="80" height="80">
   <p><b>N U A - L A N G</b></p></a>
-  <p>A Production ready implementation of the Lua C Librairy</p>
+  <p>A Production ready implementation of the Lua C Library</p>
 </div>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7f7be795-6fee-4a39-9441-48a358bf3cf5/deploy-status)](https://app.netlify.com/sites/ecstatic-spence-671906/deploys)
@@ -16,14 +16,14 @@ Nua is a language with the following goals:
   * Small but compact byte-code interpreter (similar to LuaJIT - Joff) 
   * Much more speed than the Lua-C
 * Syntax
-  * Using couroutines
+  * Using coroutines
   * Lightweight fibers
   * nil value
 * Api
   * Js-api similar to the LuaC-api
   * Useful rest-api
   
-  Sounds great? So get started. You even can try it out in your <a href="http://nua-lang.github.io">Browser</a>.
+  Sounds great? So get started. You even can try it out in your <a href="http://nua-lang.github.io">browser</a>.
   
   Medium: <a href="https://medium.com/p/90cd532ac09/edit">article</a>
 
@@ -78,7 +78,7 @@ You want to learn the Nua lang? So fire up the official syntax guide<a href=""> 
 
 ## Running the tests
 
-The test section for Nua is written itselfes in Nua!
+The test section for Nua is written itself in Nua!
 
 ### Nua
 
@@ -129,6 +129,6 @@ This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENS
 
 * Book for Nua
 * Blog
-* better Modules
+* Better Modules
 * Rewrite Nua.io in Nua
 
